@@ -29,7 +29,7 @@ void setup(void)
   pinMode (5, OUTPUT);
   tone (5, 1000);
   delay (500);
-  noTone (5);  
+  noTone (5);
 }
 
 void loop(void)
