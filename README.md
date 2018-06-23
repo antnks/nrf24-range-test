@@ -12,6 +12,6 @@ SCK  - 13
 VCC  - external +3.3v
 GND  - external -3.3v
 ```
-Arduino GND must also be connected to external power suply's GND
+Arduino GND must also be connected to external power supply's GND
 
 Connect a buzzer to receiver's pin 5
